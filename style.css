@@ -7,8 +7,18 @@
 img {
   width: 200px;
   height: auto;
+  border-radius: 10px;
+}
+
+.samosa-img {
+  width: 100px;
+  height: auto;
 }
 
 ul {
   list-style: none;
+}
+
+ol {
+  list-style-type: none;
 }

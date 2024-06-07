@@ -1,0 +1,14 @@
+* {
+  text-align: center;
+  background-color: royalblue;
+  color: hotpink;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+ul {
+  list-style: none;
+}

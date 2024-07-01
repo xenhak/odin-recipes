@@ -2,6 +2,12 @@
   text-align: center;
   background-color: royalblue;
   color: hotpink;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 700;
+}
+
+.heading {
+  font-size: 34px;
 }
 
 img {
@@ -15,8 +21,14 @@ img {
   height: auto;
 }
 
+.down-space {
+  margin-bottom: 5px;
+}
+
 ul {
   list-style: none;
+  padding: 0;
+  margin-top: 10px;
 }
 
 ol {
